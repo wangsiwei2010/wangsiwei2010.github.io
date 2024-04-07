@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siwei Wang (王思为)"
-description              : "This is the personal academic homepage for Siwei Wang. "
+description              : "Assistant Professor in Intelligent Game and Decision Lab. Focusing on unsupervised learning, multimodal fusion and LLM-based Agents."
 repository               : "wangsiwei2010/wangsiwei2010.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siwei Wang"
   avatar           : "images/SiWei-Wang.png"
-  bio              : "Intelligent Game and Decision Lab, Academy of Military Sciences"
+  bio              : " Academy of Military Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
