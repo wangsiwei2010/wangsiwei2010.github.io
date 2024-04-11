@@ -1,5 +1,10 @@
 # 📝 Publications 
 
+## Large-scale Anchor Representation
+
+
+
+## Large-scale Anchor Alignment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
