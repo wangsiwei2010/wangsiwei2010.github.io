@@ -19,10 +19,7 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-
-# 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{% include_relative includes/news.md %}
 
 # 📝 Publications 
 
