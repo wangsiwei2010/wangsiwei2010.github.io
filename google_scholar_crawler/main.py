@@ -28,8 +28,8 @@ with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
 
 
 
-search_query1: dict = scholarly.search_pubs(paper1)
-scholarly.fill(search_query1, sections=['num_citations'])
+search_query1 = scholarly.search_pubs(paper1)
+search_query1 = next(search_query1)
 
 with open(f'results/gs_data_paper1.json', 'w') as outfile:
     json.dump(search_query1, outfile, ensure_ascii=False)
