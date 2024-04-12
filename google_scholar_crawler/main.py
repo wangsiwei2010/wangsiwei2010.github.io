@@ -46,7 +46,7 @@ with open(f'results/gs_data_shieldsio_paper1.json', 'w') as outfile:
 
 
 search_query2 = scholarly.search_pubs(paper2)
-data1 = next(search_query2)
+data2 = next(search_query2)
 print(json.dumps(data2, indent=2))
 
 with open(f'results/gs_data_paper2.json', 'w') as outfile:
