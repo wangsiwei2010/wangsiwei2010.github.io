@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP2022</div><img src='images/tip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance](https://www.researchgate.net/publication/356634317_Fast_Parameter-Free_Multi-View_Subspace_Clustering_With_Consensus_Anchor_Guidance) 
+[Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance](https://www.researchgate.net/publication/356634317_Fast_Parameter-Free_Multi-View_Subspace_Clustering_With_Consensus_Anchor_Guidance) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper1.json&labelColor=f6f6f6&color=9cf&style=flat&label=num_citations"></a>
 
 [Code](https://github.com/wangsiwei2010/FPMVS-CAG)
 
