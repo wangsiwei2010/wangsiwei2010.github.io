@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-## Late Fusion Alignment
+## Multi-view Late Fusion Alignment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
