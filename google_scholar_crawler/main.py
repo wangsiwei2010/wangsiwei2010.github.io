@@ -7,6 +7,7 @@ import os
 paper1 = 'Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance'
 paper2 = 'Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences'
 paper3 = 'Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph'
+paper4 = 'Multi-view Clustering via Late Fusion Alignment Maximization'
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
@@ -77,3 +78,18 @@ shieldio_data_paper3 = {
 with open(f'results/gs_data_shieldsio_paper3.json', 'w') as outfile:
     json.dump(shieldio_data_paper3, outfile, ensure_ascii=False)    
 
+search_query4 = scholarly.search_pubs(paper4)
+data4 = next(search_query4)
+print(json.dumps(data4, indent=2))
+
+with open(f'results/gs_data_paper4.json', 'w') as outfile:
+    json.dump(data4, outfile, ensure_ascii=False)
+
+shieldio_data_paper4 = {
+  "schemaVersion": 1,
+  "label": "num_citations",
+  "message": f"{data4['num_citations']}",
+}
+
+with open(f'results/gs_data_shieldsio_paper4.json', 'w') as outfile:
+    json.dump(shieldio_data_paper4, outfile, ensure_ascii=False)    
