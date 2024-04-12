@@ -62,7 +62,7 @@ with open(f'results/gs_data_shieldsio_paper2.json', 'w') as outfile:
     json.dump(shieldio_data_paper2, outfile, ensure_ascii=False)
 
 search_query3 = scholarly.search_pubs(paper3)
-data1 = next(search_query3)
+data3 = next(search_query3)
 print(json.dumps(data3, indent=2))
 
 with open(f'results/gs_data_paper3.json', 'w') as outfile:
