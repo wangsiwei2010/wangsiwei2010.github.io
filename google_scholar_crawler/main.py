@@ -30,7 +30,7 @@ with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
 
 search_query1 = scholarly.search_pubs(paper1)
 data1 = next(search_query1)
-print(json.dumps(data1, indent=2))
+##print(json.dumps(data1, indent=2))
 
 with open(f'results/gs_data_paper1.json', 'w') as outfile:
     json.dump(data1, outfile, ensure_ascii=False)
