@@ -29,15 +29,15 @@ with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
 
 
 search_query1 = scholarly.search_pubs(paper1)
-search_query1 = next(search_query1)
+data1 = next(search_query1)
 
 with open(f'results/gs_data_paper1.json', 'w') as outfile:
-    json.dump(search_query1, outfile, ensure_ascii=False)
+    json.dump(data1, outfile, ensure_ascii=False)
 
 shieldio_data_paper1 = {
   "schemaVersion": 1,
   "label": "num_citations",
-  "message": f"{search_query1['num_citations']}",
+  "message": f"{data1['num_citations']}",
 }
 
 with open(f'results/gs_data_shieldsio_paper1.json', 'w') as outfile:
