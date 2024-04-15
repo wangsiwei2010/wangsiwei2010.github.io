@@ -7,6 +7,6 @@
 
 <details>
   <summary>More</summary>
- - *2023.12*: &nbsp;🎉🎉 four papers have been accepted in [AAAI24](https://aaai.org/aaai-conference/). 
+ - *2023.12*: &nbsp;🎉🎉 four papers have been accepted in AAAI24. 
  
 </details>
