@@ -1,6 +1,8 @@
 # 📝 Publications 
 
-## Multi-view Late Fusion Alignment
+## Selected Publications
+
+### Multi-view Late Fusion Alignment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -15,7 +17,7 @@
 </div>
 </div>
 
-## Large-scale Anchor Representation
+### Large-scale Anchor Representation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP2022</div><img src='images/tip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -31,7 +33,7 @@
 </div>
 
 
-## Large-scale Anchor Alignment
+### Large-scale Anchor Alignment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +50,7 @@
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-## Large-scale Anchor for Incomplete Scenerios 
+### Large-scale Anchor for Incomplete Scenerios 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
