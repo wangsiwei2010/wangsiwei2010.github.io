@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 ## Selected Publications
-NeurIPS 2, ICML 1, CVPR 3, ICCV 1, AAAI 3, IEEE TIP 2, TKDE 4,  IJCAI 1, SIGIR 1
+NeurIPS 2, ICML 1, ICLR 1, CVPR 3, ICCV 1, AAAI 3, IEEE TIP 2, TKDE 4,  IJCAI 1, SIGIR 1
 
 ### Multi-view Late Fusion Alignment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai.jpg' alt="sym" width="100%"></div></div>
