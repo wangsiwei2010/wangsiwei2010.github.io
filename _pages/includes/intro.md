@@ -1,4 +1,4 @@
-From 2023.06, I am an assistant professor at Academy of Military Sciences, Beijing.
+From 2023.06, I am an assistant professor at Academy of Military Sciences, Haidian, Beijing.
 
 I graduated from the Department of Computer Science, [National University of Defense Technology](https://english.nudt.edu.cn/), with a bachelor/master/doctor degree(国防科技大学计算机学院), advised by [Xinwang Liu (刘新旺)](https://xinwangliu.github.io/) and [En Zhu (祝恩)](https://person.zju.edu.cn/zhaozhou) 2013-2023. I also collaborate with Sihang Zhou (周思航) and [Chang Tang(唐厂)](https://tangchang.net/)  closely. 
 
