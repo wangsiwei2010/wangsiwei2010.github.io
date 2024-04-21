@@ -14,7 +14,7 @@ NeurIPS 2, ICML 1, ICLR 1, CVPR 3, ICCV 1, AAAI 3, IEEE TIP 2, TKDE 4,  IJCAI 1,
 **Siwei Wang**, Xinwang Liu, En Zhu, Chang Tang, Jiyuan Liu, Jingtao Hu, Jingyuan Xia, Jianping Yin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- propose multi-view late fusion paradigm. 
 </div>
 </div>
 
