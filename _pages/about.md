@@ -37,8 +37,7 @@ redirect_from:
 - *2013.09 - 2017.06,  Bachelor, Software Engineering, National University of Defense Technology, Changsha. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.04*, Fast Parameter-Free Multi-View Subspace Clustering with Consensus Anchor Guidance.  \| [\[ Valse video\]](https://www.bilibili.com/video/BV1KT4y1v7JV/?spm_id_from=333.1368.list.card_archive.click&vd_source=d0de0fbdfaec55750188a1840247758f)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Peng Cheng Laboratory](https://www.pcl.ac.cn/), China.
