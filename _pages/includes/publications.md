@@ -48,8 +48,6 @@
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 ### Large-scale Anchor for Incomplete Scenerios 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
