@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Two corresponding papers are accepted in [ACM MM24](https://2024.acmmm.org/)(CCF-A). 
 - *2024.06*: &nbsp;🎉🎉 continue to serve as SPC for [AAAI25](https://aaai.org/conference/aaai/aaai-25/)(CCF-A). 
 - *2024.05*: &nbsp;🎉🎉 two papers about incomplete MVC and continual learning are accepted in ICML24(CCF-A) （<font color="red"> One corresponding: Spotlight (121/9473, top 3.5%)</font> ）. 
 - *2024.03*: &nbsp;🎉🎉 accept to serve as Area Chair for [NeurIPS24](https://neurips.cc/Conferences/2024)(CCF-A). 
