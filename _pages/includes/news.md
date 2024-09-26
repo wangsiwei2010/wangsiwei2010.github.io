@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Two corresponding papers are accepted in [NeurIPS24](https://neurips.cc/Conferences/2024)(CCF-A). 
 - *2024.08*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICLR25](https://iclr.cc/Conferences/2025)(CCF-A).
 - *2024.06*: &nbsp;🎉🎉 Two corresponding papers are accepted in [ACM MM24](https://2024.acmmm.org/)(CCF-A). 
 - *2024.06*: &nbsp;🎉🎉 continue to serve as SPC for [AAAI25](https://aaai.org/conference/aaai/aaai-25/)(CCF-A). 
