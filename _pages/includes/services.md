@@ -8,4 +8,6 @@
 
 ## Journals
 
-- Reviewer: IEEE TPAMI/TIP/TNNLS/TKDE/TCYB/TMM/TCVST, Pattern Recognition
+-Associate Editor: Pattern Recognition(2024-)
+
+- Reviewer: IEEE TPAMI/TIP/TNNLS/TKDE/TCYB/TMM/TCVST
