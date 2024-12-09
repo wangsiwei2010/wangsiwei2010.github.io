@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICML25](https://icml.cc/)(CCF-A). 
 - *2024.11*: &nbsp;🎉🎉 honor to serve as AE for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)(CCF-B). 
 - *2024.10*: &nbsp;🎉🎉 accept to serve as Area Chair for [CVPR25](https://cvpr.thecvf.com/Conferences/2025)(CCF-A). 
 - *2024.09*: &nbsp;🎉🎉 Two corresponding papers are accepted in [NeurIPS24](https://neurips.cc/Conferences/2024)(CCF-A). 
