@@ -1,7 +1,7 @@
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICML25](https://icml.cc/)(CCF-A). 
 - *2024.11*: &nbsp;🎉🎉 honor to serve as AE for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)(CCF-B). 
-- *2024.10*: &nbsp;🎉🎉 accept to serve as Area Chair for [CVPR25](https://cvpr.thecvf.com/Conferences/2025)(CCF-A). 
+- *2024.09*: &nbsp;🎉🎉 will be an AC for Valse. 
 - *2024.09*: &nbsp;🎉🎉 Two corresponding papers are accepted in [NeurIPS24](https://neurips.cc/Conferences/2024)(CCF-A). 
 - *2024.08*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICLR25](https://iclr.cc/Conferences/2025).
 - *2024.06*: &nbsp;🎉🎉 Two corresponding papers are accepted in [ACM MM24](https://2024.acmmm.org/)(CCF-A). 
