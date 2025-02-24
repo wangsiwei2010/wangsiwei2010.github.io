@@ -1,5 +1,6 @@
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 accept to serve as Area Chair for ACM MM 2025 and NeurIPS2025(CCF-A). 
+- *2025.01*: &nbsp;🎉🎉 one paper is accepted in TKDE.
 - *2024.12*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICML25](https://icml.cc/)(CCF-A). 
 - *2024.11*: &nbsp;🎉🎉 honor to serve as AE for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)(CCF-B). 
 - *2024.09*: &nbsp;🎉🎉 will be an AC for Valse. 
