@@ -7,7 +7,7 @@ I am now working on ***Multi-modal Data Analysis***, ***Scalable Unsupervised Le
 
 For scalable unsupervised learning, we have built a comprehensive [awesome-multi-view-clustering-repository](https://github.com/wangsiwei2010/awesome-multi-view-clustering). We have also built a data repository for [large-scale multi-view data](https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets). 
 
-<font color="red">NEW: I am hiring students and engineers whose intersts are multi-modal fusion and LLM Agents.Feel free to contact me with personal CV. </font> 
+<font color="red">NEW: I am hiring students and engineers whose intersts are multi-modal fusion and LLM Agents. Feel free to contact me with personal CV. </font> 
 
  
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [wangsiwei13@nudt.edu.cn](mailto:wangsiwei13@nudt.edu.cn). 
