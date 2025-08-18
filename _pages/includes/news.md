@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 accept to serve as Area Chair for AAAI2026(CCF-A). 
+- *2025.07*: &nbsp;🎉🎉 accept to serve as Area Chair for AAAI2026 and ICLR2026 (CCF-A). 
 - *2025.02*: &nbsp;🎉🎉 accept to serve as Area Chair for ACM MM 2025 and NeurIPS2025(CCF-A). 
 - *2025.01*: &nbsp;🎉🎉 one paper is accepted in TKDE.
 - *2024.12*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICML25](https://icml.cc/)(CCF-A). 
@@ -19,5 +19,4 @@
  - *2024.02*: &nbsp;🎉🎉 accept to serve as Area Chair for [ACM MM24](https://2024.acmmm.org/)(CCF-A). 
  - *2024.01*: &nbsp;🎉🎉 one paper is accepted in [ICLR24](https://iclr.cc/Conferences/2024). 
  - *2023.12*: &nbsp;🎉🎉 four papers have been accepted in AAAI24. 
- 
 </details>
