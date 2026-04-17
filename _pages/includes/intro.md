@@ -7,6 +7,8 @@ I am now working on ***Multi-modal Data Analysis***, ***Scalable Unsupervised Le
 
 For scalable unsupervised learning, we have built a comprehensive [awesome-multi-view-clustering-repository](https://github.com/wangsiwei2010/awesome-multi-view-clustering). We have also built a data repository for [large-scale multi-view data](https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets). 
 
+For GUI Agnet, we have done several work about the whole pipeline of LLM agents.
+
 <font color="red">NEW: I am hiring students and engineers whose intersts are multi-modal fusion and LLM Agents. Feel free to contact me with personal CV. </font> 
 
  
