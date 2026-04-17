@@ -3,6 +3,7 @@ import jsonpickle
 import json
 from datetime import datetime
 import os
+import time
 
 # Setup proxy
 pg = ProxyGenerator()
@@ -34,6 +35,8 @@ shieldio_data = {
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
 
+time.sleep(10)    
+
 search_query1 = scholarly.search_pubs(paper1)
 data1 = next(search_query1)
 print(json.dumps(data1, indent=2))
@@ -50,6 +53,7 @@ shieldio_data_paper1 = {
 with open(f'results/gs_data_shieldsio_paper1.json', 'w') as outfile:
     json.dump(shieldio_data_paper1, outfile, ensure_ascii=False)
 
+time.sleep(10)
 
 search_query2 = scholarly.search_pubs(paper2)
 data2 = next(search_query2)
@@ -67,6 +71,8 @@ shieldio_data_paper2 = {
 with open(f'results/gs_data_shieldsio_paper2.json', 'w') as outfile:
     json.dump(shieldio_data_paper2, outfile, ensure_ascii=False)
 
+time.sleep(10)    
+
 search_query3 = scholarly.search_pubs(paper3)
 data3 = next(search_query3)
 print(json.dumps(data3, indent=2))
@@ -82,6 +88,8 @@ shieldio_data_paper3 = {
 
 with open(f'results/gs_data_shieldsio_paper3.json', 'w') as outfile:
     json.dump(shieldio_data_paper3, outfile, ensure_ascii=False)    
+
+time.sleep(10)    
 
 search_query4 = scholarly.search_pubs(paper4)
 data4 = next(search_query4)
