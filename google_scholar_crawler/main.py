@@ -35,7 +35,7 @@ shieldio_data = {
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
 
-time.sleep(10)    
+time.sleep(30)    
 
 search_query1 = scholarly.search_pubs(paper1)
 data1 = next(search_query1)
@@ -53,7 +53,7 @@ shieldio_data_paper1 = {
 with open(f'results/gs_data_shieldsio_paper1.json', 'w') as outfile:
     json.dump(shieldio_data_paper1, outfile, ensure_ascii=False)
 
-time.sleep(10)
+time.sleep(30)
 
 search_query2 = scholarly.search_pubs(paper2)
 data2 = next(search_query2)
@@ -71,7 +71,7 @@ shieldio_data_paper2 = {
 with open(f'results/gs_data_shieldsio_paper2.json', 'w') as outfile:
     json.dump(shieldio_data_paper2, outfile, ensure_ascii=False)
 
-time.sleep(10)    
+time.sleep(30)    
 
 search_query3 = scholarly.search_pubs(paper3)
 data3 = next(search_query3)
@@ -89,7 +89,7 @@ shieldio_data_paper3 = {
 with open(f'results/gs_data_shieldsio_paper3.json', 'w') as outfile:
     json.dump(shieldio_data_paper3, outfile, ensure_ascii=False)    
 
-time.sleep(10)    
+time.sleep(30)    
 
 search_query4 = scholarly.search_pubs(paper4)
 data4 = next(search_query4)
