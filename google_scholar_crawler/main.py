@@ -1,8 +1,13 @@
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import jsonpickle
 import json
 from datetime import datetime
 import os
+
+# Setup proxy
+pg = ProxyGenerator()
+pg.FreeProxies()  # Use free rotating proxies
+scholarly.use_proxy(pg)
 
 paper1 = 'Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance'
 paper2 = 'Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences'
