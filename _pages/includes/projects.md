@@ -1,4 +1,4 @@
-# Projects
+# 📝 Projects
 
 ## Research Projects
 - 1 NSFC Young Scientist Fund project, 2 intelligent special projects of the CSTVC, and 1 provincial-level research project
