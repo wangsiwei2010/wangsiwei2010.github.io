@@ -8,4 +8,4 @@
 - *2024.05*: &nbsp;🎉🎉 two papers about incomplete MVC and continual learning are accepted in ICML24(CCF-A) (<font color="red"> One corresponding: Spotlight (121/9473, top 3.5%)</font> ).
 - *2024.03*: &nbsp;🎉🎉 one paper is accepted in [CVPR24](https://cvpr.thecvf.com/Conferences/2024)(CCF-A).  
 - *2024.01*: &nbsp;🎉🎉 one paper is accepted in [ICLR24](https://iclr.cc/Conferences/2024). 
-- *2023.12*: &nbsp;🎉🎉 four papers have been accepted in AAAI24(https://aaai.org/conference/aaai/aaai-24/)(CCF-A). 
+- *2023.12*: &nbsp;🎉🎉 four papers have been accepted in [AAAI24](https://aaai.org/conference/aaai/aaai-24/)(CCF-A). 
