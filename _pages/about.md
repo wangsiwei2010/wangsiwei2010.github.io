@@ -21,17 +21,23 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
-{% include_relative includes/services.md %}
+# 🏆 Honors and Awards
 
-{% include_relative includes/latestprojects.md %}
+## Academic Papers
+- Published 112 academic papers, including 30 as first/corresponding author in CCF-A conferences (e.g., ICML, NeurIPS, ICLR, CVPR) and IEEE Transactions journals (e.g., TPAMI, TIP, TKDE)
+- 10 ESI Highly Cited Papers and 2 ESI Hot Papers; over 8,500 Google Scholar citations, with 29 papers cited more than 100 times each.
+- Listed among Stanford University’s World’s Top 2% Scientists in 2024 and 2025.
+
+## Personal Awards
+- Received 3 provincial-level and society-level science and technology awards, including the 2025 CCF First Class Award for Natural Sciences (ranked 4th) and 2024 Hunan Province Second Class Award for Natural Sciences (ranked 2nd)
+- Awarded Outstanding Doctoral Dissertation by Hunan Province and relevant computer societies
+- Delivered invited keynote speeches on clustering at CCDM 2024 and CGCKD 2025
+
+{% include_relative includes/services.md %}
 
 {% include_relative includes/publications.md %}
 
 {% include_relative includes/projects.md %}
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2020.03 - 2023.06,  Doctor, Computer Science,  National University of Defense Technology, Changsha. 
