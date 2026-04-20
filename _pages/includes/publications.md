@@ -1,102 +1,70 @@
-# 📝 Publications 
+# 📝 Publications
 
-## Selected Publications
+## 2025
+- [Efficient federated incomplete multi-view clustering](https://openreview.net/pdf?id=sylDbssCU9), Suyuan Liu, Hao Yu, Hao Tan, Ke Liang, **Siwei Wang**, Shengju Yu, En Zhu, Xinwang Liu, **ICML 2025**
+- [Selective cross-view topology for deep incomplete multi-view clustering](https://ieeexplore.ieee.org/abstract/document/11091516/), Zhibin Dong, Dayu Hu, Jiaqi Jin, **Siwei Wang**, Xinwang Liu, En Zhu, **TIP 2025**
+- [Integrative Multi‐Omics and Routine Blood Analysis Using Deep Learning: Cost‐Effective Early Prediction of Chronic Disease Risks](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202412775), Zhibin Dong, Pei Li, Yi Jiang, Zhihan Wang, Shihui Fu, Hebin Che, Meng Liu, Xiaojing Zhao, Chunlei Liu, Chenghui Zhao, Qin Zhong, Chongyou Rao, **Siwei Wang**, Suyuan Liu, Dayu Hu, Dongjin Wang, Juntao Gao, Kai Guo, Xinwang Liu, En Zhu, Kunlun He, **Advanced Science 2025**
+- [Automatically identify and rectify: Robust deep contrastive multi-view clustering in noisy scenarios](https://arxiv.org/pdf/2505.21387), Xihong Yang, **Siwei Wang**, Fangdi Wang, Jiaqi Jin, Suyuan Liu, Yue Liu, En Zhu, Xinwang Liu, Yueming Jin, **ICML 2025**
+- [Scalable multi-view graph clustering with cross-view corresponding anchor alignment](https://ieeexplore.ieee.org/abstract/document/10874196), **Siwei Wang**, Xinwang Liu, Qing Liao, Yi Wen, En Zhu, Kunlun He, **TKDE 2025**
+- [EASEMVC: Efficient Dual Selection Mechanism for Deep Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_EASEMVCEfficient_Dual_Selection_Mechanism_for_Deep_Multi-View_Clustering_CVPR_2025_paper.pdf), Baili Xiao, Zhibin Dong, Ke Liang, Suyuan Liu, **Siwei Wang**, Tianrui Liu, Xingchen Hu, En Zhu, Xinwang Liu, **CVPR 2025**
+- [Enhanced then progressive fusion with view graph for multi-view clustering](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Enhanced_then_Progressive_Fusion_with_View_Graph_for_Multi-View_Clustering_CVPR_2025_paper.pdf), Zhibin Dong, Meng Liu, **Siwei Wang**, Ke Liang, Yi Zhang, Suyuan Liu, Jiaqi Jin, Xinwang Liu, En Zhu, **CVPR 2025**
+- [Imputation-free and alignment-free: Incomplete multi-view clustering driven by consensus semantic learning](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.pdf), Yuzhuo Dai, Jiaqi Jin, Zhibin Dong, **Siwei Wang**, Xinwang Liu, En Zhu, Xihong Yang, Xinbiao Gan, Yu Feng, **CVPR 2025**
+- [Deep incomplete multi-view clustering with distribution dual-consistency recovery guidance](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_Deep_Incomplete_Multi-view_Clustering_with_Distribution_Dual-Consistency_Recovery_Guidance_ICCV_2025_paper.pdf), Jiaqi Jin, **Siwei Wang**, Zhibin Dong, Xihong Yang, Xinwang Liu, En Zhu, Kunlun He,**ICCV 2025**
+- [Dleft-mkc: Dynamic late fusion multiple kernel clustering with robust tensor learning via min-max optimization](https://openreview.net/pdf?id=HE5JmwniHm), Yi Zhang, **Siwei Wang**, Jiyuan Liu, Shengju Yu, Zhibin Dong, Suyuan Liu, Xinwang Liu, En Zhu, **ICLR 2025**
 
-### Multi-view Alignment
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 2024
+- [Evaluate then cooperate: Shapley-based view cooperation enhancement for multi-view clustering](https://proceedings.neurips.cc/paper_files/paper/2024/file/f46b6689a645184b5ff84b4feb3e7bb4-Paper-Conference.pdf), Fangdi Wang, Jiaqi Jin, Jingtao Hu, Suyuan Liu, Xihong Yang, **Siwei Wang**, Xinwang Liu, En Zhu, **NeurIPS 2024**
+- [Alleviate anchor-shift: Explore blind spots with cross-view reconstruction for incomplete multi-view clustering](https://proceedings.neurips.cc/paper_files/paper/2024/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf), Suyuan Liu, **Siwei Wang**, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, Kunlun He, Xinwang Liu, **NeurIPS 2024**
+- [TFMKC: Tuning-free multiple kernel clustering coupled with diverse partition fusion](https://ieeexplore.ieee.org/abstract/document/10645690/), Junpu Zhang, Liang Li, Pei Zhang, Yue Liu, **Siwei Wang**, Changbao Zhou, Xinwang Liu, En Zhu, **TNNLS 2024**
+- [Differentiated anchor quantity assisted incomplete multiview clustering without number-tuning](https://ieeexplore.ieee.org/abstract/document/10643577/), Shengju Yu, Pei Zhang, **Siwei Wang**, Zhibin Dong, Hengfu Yang, En Zhu, **TCYB 2024**
+- [Scalable and structural multi-view graph clustering with adaptive anchor fusion](https://ieeexplore.ieee.org/abstract/document/10643455/), **Siwei Wang**, Xinwang Liu, Suyuan Liu, Wenxuan Tu, En Zhu, **TIP 2024**
+- [Towards resource-friendly, extensible and stable incomplete multi-view clustering](https://openreview.net/pdf?id=O45u81aby2), Shengju Yu, Zhibin Dong, **Siwei Wang**, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, Wenxuan Tu, Xinwang Liu, **ICML 2024**
+- [Decouple then classify: A dynamic multi-view labeling strategy with shared and specific information](https://openreview.net/pdf?id=WfJuiIiFzB), Xinhang Wan, Jiyuan Liu, Xinwang Liu, Yi Wen, Hao Yu, **Siwei Wang**, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu, **ICML 2024**
+- [A survey of knowledge graph reasoning on graph types: Static, dynamic, and multi-modal](https://arxiv.org/pdf/2212.05767), Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, **Siwei Wang**, Sihang Zhou, Xinwang Liu, Fuchun Sun, Kunlun He, **TPAMI 2024**
+- [High-order topology for deep single-cell multiview fuzzy clustering](https://ieeexplore.ieee.org/abstract/document/10529589/), Dayu Hu, Zhibin Dong, Ke Liang, Hao Yu, **Siwei Wang**, Xinwang Liu, **TFS 2024**
+- [Symmetric multi-view subspace clustering with automatic neighbor discovery](https://ieeexplore.ieee.org/abstract/document/10508192/), Huimin Ma, **Siwei Wang**, Junpu Zhang; Shengju Yu; Suyuan Liu; Xinwang Liu, **TCSVT 2024**
+- [One-step multi-view clustering with diverse representation](https://ieeexplore.ieee.org/abstract/document/10486880/), Xinhang Wan, Jiyuan Liu, Xinbiao Gan, Xinwang Liu, **Siwei Wang**, Yi Wen, Tianjiao Wan, En Zhu, **TNNLS 2024**
+- [Robust and consistent anchor graph learning for multi-view clustering](https://ieeexplore.ieee.org/abstract/document/10440580/), Suyuan Liu, Qing Liao, **Siwei Wang**, Xinwang Liu, En Zhu, **TKDE 2024**
+- [Subgraph propagation and contrastive calibration for incomplete multiview data clustering](https://ieeexplore.ieee.org/abstract/document/10405858/), Zhibin Dong, Jiaqi Jin, Yuyang Xiao, Bin Xiao, **Siwei Wang**, Xinwang Liu, **TNNLS 2024**
+- [Crots: Cross-domain teacher–student learning for source-free domain adaptive semantic segmentation](https://link.springer.com/article/10.1007/s11263-023-01863-1), Xin Luo, Wei Chen, Zhengfa Liang, Longqi Yang, **Siwei Wang**, Chen Li , **IJCV 2024**
+- [Learn from view correlation: An anchor enhancement strategy for multi-view clustering](http://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf), Suyuan Liu, Ke Liang, Zhibin Dong, **Siwei Wang**, Xihong Yang, Sihang Zhou, En Zhu, Xinwang Liu, **CVPR 2024**
 
-[Multi-view Clustering via Late Fusion Alignment Maximization](https://www.ijcai.org/Proceedings/2019/0524.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'></a>
+## 2023
+- [Sparse low-rank multi-view subspace clustering with consensus anchors and unified bipartite graph](https://ieeexplore.ieee.org/abstract/document/10325611/), Shengju Yu, Suyuan Liu, **Siwei Wang**, Chang Tang, Zhigang Luo, Xinwang Liu, En Zhu, **TNNLS 2023**
+- [SAMCL: Subgraph-aligned multiview contrastive learning for graph anomaly detection](https://ieeexplore.ieee.org/abstract/document/10310240/), Jingtao Hu, Bin Xiao, Hu Jin, Jingcan Duan, **Siwei Wang**, Zhao Lv, Siqi Wang, Xinwang Liu, En Zhu, **TNNLS 2023**
+- [Arise: Graph anomaly detection on attributed networks via substructure awareness](https://ieeexplore.ieee.org/abstract/document/10258476/), Jingcan Duan, Bin Xiao, **Siwei Wang**, Haifang Zhou, Xinwang Liu, **TNNLS 2023**
+- [Iterative deep structural graph contrast clustering for multiview raw data](https://ieeexplore.ieee.org/abstract/document/10260686/), Zhibin Dong, 
+Jiaqi Jin, Yuyang Xiao, **Siwei Wang**, Xinzhong Zhu, Xinwang Liu, En Zhu, **TNNLS 2023**
+- [How to construct corresponding anchors for incomplete multiview clustering](https://ieeexplore.ieee.org/abstract/document/10243081/), Shengju Yu, **Siwei Wang**, Yi Wen, Ziming Wang, Zhigang Luo, En Zhu, Xinwang Liu, **TNNLS 2023**
+- [Unpaired multi-view graph clustering with cross-view structure matching](https://ieeexplore.ieee.org/abstract/document/10205509/), Yi Wen, **Siwei Wang**, Qing Liao, Weixuan Liang, Ke Liang, Xinhang Wan, Xinwang Liu, **TNNLS 2023**
+- [Learn from relational correlations and periodic events for temporal knowledge graph reasoning](https://dl.acm.org/doi/pdf/10.1145/3539618.3591711), Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, **Siwei Wang**, Sihang Zhou, Xinwang Liu, **SIGIR 2023**
+- [Simple contrastive graph clustering](https://ieeexplore.ieee.org/abstract/document/10163985/), Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, Wenxuan Tu, Liang Li, **TNNLS 2023**
+- [Deep temporal graph clustering](https://proceedings.iclr.cc/paper_files/paper/2024/file/c14d902be45c72833018b2ccfac071e4-Paper-Conference.pdf), Meng Liu, Yue Liu, Ke Liang, Wenxuan Tu, **Siwei Wang**, Sihang Zhou, Xinwang Liu, **ICLR 2023**
+- [Multi-view bipartite graph clustering with coupled noisy feature filter](https://ieeexplore.ieee.org/abstract/document/10109823), Liang Li, Junpu Zhang, **Siwei Wang**, Xinwang Liu, Kenli Li, Keqin Li, **TNNLS 2023**
+- [Cross-view topology based consistent and complementary information for deep multi-view clustering](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.pdf), Zhibin Dong, **Siwei Wang**, Jiaqi Jin, Xinwang Liu, En Zhu, **ICCV 2023**
+- [Deep incomplete multi-view clustering with cross-view partial sample and prototype alignment](http://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Deep_Incomplete_Multi-View_Clustering_With_Cross-View_Partial_Sample_and_Prototype_CVPR_2023_paper.pdf), Jiaqi Jin, **Siwei Wang**, Zhibin Dong, Xinwang Liu, En Zhu, **CVPR 2023**
 
-[Code](https://github.com/wangsiwei2010/latefusionalignment)
+## 2022
+- [Multi-view fuzzy classification with subspace clustering and information granules](https://ieeexplore.ieee.org/abstract/document/9999253/), Xingchen Hu, Xinwang Liu, Witold Pedrycz, Qing Liao, Yinghua Shen, Yan Li, **Siwei Wang**, **TKDE 2022**
+- [Fast incomplete multi-view clustering with view-independent anchors](https://ieeexplore.ieee.org/abstract/document/9982492/), Suyuan Liu, Xinwang Liu, **Siwei Wang**, Xin Niu, En Zhu, **TNNLS 2022**
+- [Stability and generalization of kernel clustering: From single kernel to multiple kernel](https://proceedings.neurips.cc/paper_files/paper/2022/file/da0945c639b376b84941256c7371dd45-Paper-Conference.pdf), Weixuan Liang, Xinwang Liu, Yong Liu, sihang zhou, JunJie Huang, **Siwei Wang**, Jiyuan Liu, Yi Zhang, En Zhu, **NeurIPS 2022**
+- [Align then fusion: Generalized large-scale multi-view clustering with anchor matching correspondences](https://proceedings.neurips.cc/paper_files/paper/2022/file/270339c997293ca2988c62f4308e389f-Paper-Conference.pdf), **Siwei Wang**, Xinwang Liu, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu, **NeurIPS 2022**
+- [Local sample-weighted multiple kernel clustering with consensus discriminative graph](https://ieeexplore.ieee.org/abstract/document/9830658/), Liang Li, **Siwei Wang**, Xinwang Liu, En Zhu, Li Shen, Kenli Li, Keqin Li, **TNNLS 2022**
+- [Parameter-free and scalable incomplete multiview clustering with prototype graph](https://ieeexplore.ieee.org/abstract/document/9777866/), Miaomiao Li, **Siwei Wang**, Xinwang Liu, Suyuan Liu, **TNNLS 2022**
+- [Highly-efficient incomplete large-scale multi-view clustering with consensus bipartite graph](http://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Highly-Efficient_Incomplete_Large-Scale_Multi-View_Clustering_With_Consensus_Bipartite_Graph_CVPR_2022_paper.pdf), **Siwei Wang**, Xinwang Liu, Li Liu, Wenxuan Tu, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, En Zhu, **CVPR 2022**
 
-**Siwei Wang**, Xinwang Liu, En Zhu, Chang Tang, Jiyuan Liu, Jingtao Hu, Jingyuan Xia, Jianping Yin
+## 2021
+- [Late fusion multiple kernel clustering with local kernel alignment maximization](https://ieeexplore.ieee.org/abstract/document/9653838/), Tiejian Zhang, Xinwang Liu, Lei Gong, **Siwei Wang**, Xin Niu, Li Shen, **TMM 2021**
+- [Fast parameter-free multi-view subspace clustering with consensus anchor guidance](https://ieeexplore.ieee.org/abstract/document/9646486/), **Siwei Wang**, Xinwang Liu, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao, En Zhu, **TIP 2021**
+- [Late fusion multiple kernel clustering with proxy graph refinement](https://ieeexplore.ieee.org/abstract/document/9573366/), **Siwei Wang**, Xinwang Liu, Li Liu, Sihang Zhou, En Zhu, **TNNLS 2021**
+- [Multiple kernel clustering with compressed subspace alignment](https://ieeexplore.ieee.org/abstract/document/9478946/), Sihang Zhou, Qiyuan Ou, Xinwang Liu, Siqi Wang, Luyan Liu, **Siwei Wang**, En Zhu, Jianping Yin, Xin Xu, **TNNLS 2021**
+- [One pass late fusion multi-view clustering](http://proceedings.mlr.press/v139/liu21l/liu21l.pdf), Xinwang Liu, Li Liu, Qing Liao, **Siwei Wang**, Yi Zhang, Wenxuan Tu, Chang Tang, Jiyuan Liu, En Zhu,**ICML 2021**
+- [Projective multiple kernel subspace clustering](https://ieeexplore.ieee.org/abstract/document/9447203/), Mengjing Sun, **Siwei Wang**, Pei Zhang, Xinwang Liu, Xifeng Guo, Sihang Zhou, En Zhu, **TMM 2021**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- propose multi-view late fusion paradigm. 
-</div>
-</div>
+## 2020
+- [Optimal neighborhood multiple kernel clustering with adaptive local kernels](https://ieeexplore.ieee.org/abstract/document/9157960/), Jiyuan Liu, Xinwang Liu, Jian Xiong, Qing Liao, Sihang Zhou, **Siwei Wang**, Yuexiang Yang, **TKDE 2020**
+- [Multi-view spectral clustering with high-order optimal neighborhood laplacian matrix](https://ieeexplore.ieee.org/abstract/document/9200798/), Weixuan Liang, Sihang Zhou, Jian Xiong, Xinwang Liu, **Siwei Wang**, En Zhu, **TKDE 2020**
+- [circ5615 functions as a ceRNA to promote colorectal cancer progression by upregulating TNKS](https://www.nature.com/articles/s41419-020-2514-0), Zhifei Ma, Chencheng Han, Wenjia Xia, **Siwei wang**, Xiang Li, Panqi Fang, Rong Yin, Lin Xu, Liu Yang, **Cell Death & Disease 2020**
 
-### Large-scale Anchor Representation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP2022</div><img src='images/tip.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance](https://www.researchgate.net/publication/356634317_Fast_Parameter-Free_Multi-View_Subspace_Clustering_With_Consensus_Anchor_Guidance) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'></a> 
-
-[Code](https://github.com/wangsiwei2010/FPMVS-CAG)
-
-**Siwei Wang**, Xinwang Liu, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao, En Zhu (ESI High Cited Paper)
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='5o9hK3EAAAAJ:qjMakFHDy7sC'></span></strong>
-- a unified multi-view co-training style of anchors. 
-</div>
-</div>
-
-
-### Large-scale Anchor Alignment
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences](https://proceedings.neurips.cc/paper_files/paper/2022/file/270339c997293ca2988c62f4308e389f-Paper-Conference.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'></a>
-
-[Code](https://github.com/wangsiwei2010/NeurIPS22-FMVACC)
-
-**Siwei Wang**, Xinwang Liu, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- the first work to tackle multi-view anchor-unaligned problem. 
-</div>
-</div>
-
-### Large-scale Anchor for Incomplete Scenerios 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Highly-Efficient_Incomplete_Large-Scale_Multi-View_Clustering_With_Consensus_Bipartite_Graph_CVPR_2022_paper.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'></a>
-
-[Code](https://github.com/wangsiwei2010/CVPR22-IMVC-CBG)
-
-**Siwei Wang**, Xinwang Liu, Li Liu, Wenxuan Tu, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, En Zhu
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- the first large-scale multi-view anchor framework for incomplete scenerios. 
-</div>
-</div>
-
-- [A Non-parametric Graph Clustering Framework for Multi-View Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
-- [Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:g5m5HwL7SMYC), Suyuan Liu, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu, **AAAI 2024**
-- [DVSAI: Diverse View-Shared Anchors Based Incomplete Multi-View Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:M05iB0D1s5AC), Shengju Yu, Siwei Wang, Pei Zhang, Miao Wang, Ziming Wang, Zhe Liu, Liming Fang, En Zhu, Xinwang Liu, **AAAI 2024**
-- [Robust and Consistent Anchor Graph Learning for Multi-View Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:2P1L_qKh6hAC), Suyuan Liu, Qing Liao, Siwei Wang, Xinwang Liu, En Zhu, **TKDE 2024**
-- [Multi-view bipartite graph clustering with coupled noisy feature filter](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:O3NaXMp0MMsC), Xingchen Hu, Xinwang Liu, Witold Pedrycz, Qing Liao, Yinghua Shen, Yan Li, Siwei Wang, **TKDE 2023**
-- [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:RGFaLdJalmkC), Zhibin Dong, Siwei Wang, Jiaqi Jin, Xinwang Liu, En Zhu, **ICCV 2023**
-- [Deep incomplete multi-view clustering with cross-view partial sample and prototype alignment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Jiaqi Jin, Siwei Wang, Zhibin Dong, Xinwang Liu, En Zhu, **CVPR 2023**
-- [Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:35N4QoGY0k4C), Jingcan Duan, Pei Zhang, Siwei Wang, Jingtao Hu, Hu Jin, Jiaxin Zhang, Haifang Zhou, Xinwang Liu, **ACM MM 2023**
-- [Efficient Multi-View Graph Clustering with Local and Global Structure Preservation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:BqipwSGYUEgC), Yi Wen, Suyuan Liu, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu, Xihong Yang, Pei Zhang, **ACM MM 2023**
-- [Scalable Incomplete Multi-View Clustering with Structure Alignment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:YFjsv_pBGBYC), Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu, Suyuan Liu, Jiyuan Liu, En Zhu, **ACM MM 2023**
-- [Iterative Deep Structural Graph Contrast Clustering for Multiview Raw Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:ns9cj8rnVeAC), Zhibin Dong, Jiaqi Jin, Yuyang Xiao, Siwei Wang, Xinzhong Zhu, Xinwang Liu, En Zhu, **TNNLS 2023**
-- [How to Construct Corresponding Anchors for Incomplete Multiview Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:GnPB-g6toBAC), Shengju Yu, Siwei Wang, Yi Wen, Ziming Wang, Zhigang Luo, En Zhu, Xinwang Liu, **TCSVT 2023**
-- [Unpaired multi-view graph clustering with cross-view structure matching](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:JV2RwH3_ST0C), Yi Wen, Siwei Wang, Qing Liao, Weixuan Liang, Ke Liang, Xinhang Wan, Xinwang Liu, **TNNLS 2023**
-- [Learn from relational correlations and periodic events for temporal knowledge graph reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:M3NEmzRMIkIC), Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu, **SIGIR 2023**
-- [Simple contrastive graph clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:isC4tDSrTZIC), Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, Wenxuan Tu, Liang Li, **TNNLS 2023**
-- [Let the data choose: Flexible and diverse anchor graph fusion for scalable multi-view clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:k_IJM867U9cC), Pei Zhang, Siwei Wang, Liang Li, Changwang Zhang, Xinwang Liu, En Zhu, Zhe Liu, Lu Zhou, Lei Luo, **AAAI 2023**
-- [Graph anomaly detection via multi-scale contrastive learning networks with augmented view](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:mB3voiENLucC), Jingcan Duan, Siwei Wang, Pei Zhang, En Zhu, Jingtao Hu, Hu Jin, Yue Liu, Zhibin Dong, **AAAI 2023**
-- [Fast incomplete multi-view clustering with view-independent anchors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:TQgYirikUcIC), Suyuan Liu, Xinwang Liu, Siwei Wang, Xin Niu, En Zhu, **TNNLS 2022**
-- [Stability and generalization of kernel clustering: From single kernel to multiple kernel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:hFOr9nPyWt4C), Weixuan Liang, Xinwang Liu, Yong Liu, Jun-Jie Huang, Siwei Wang, Jiyuan Liu, Yi Zhang, En Zhu, **NIPS 2022**
-- [Align then fusion: Generalized large-scale multi-view clustering with anchor matching correspondences](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:mVmsd5A6BfQC), Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu, **NIPS 2022**
-- [Local sample-weighted multiple kernel clustering with consensus discriminative graph](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:kNdYIx-mwKoC), Liang Li, Siwei Wang, Xinwang Liu, En Zhu, Li Shen, Kenli Li, Keqin Li, **TNNLS 2022**
-- [Efficient one-pass multi-view subspace clustering with consensus anchors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:zYLM7Y9cAGgC), Suyuan Liu, Siwei Wang, Pei Zhang, Kai Xu, Xinwang Liu, Changwang Zhang, Feng Gao, **AAAI 2022**
-- [Parameter-free and scalable incomplete multiview clustering with prototype graph](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:Se3iqnhoufwC), Miaomiao Li, Siwei Wang, Xinwang Liu, Suyuan Liu, **TNNLS 2022**
-- [Highly-efficient incomplete large-scale multi-view clustering with consensus bipartite graph](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:IjCSPb-OGe4C), Siwei Wang, Xinwang Liu, Li Liu, Wenxuan Tu, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, En Zhu, **CVPR 2022**
-- [Late fusion multiple kernel clustering with local kernel alignment maximization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:8k81kl-MbHgC), Tiejian Zhang, Xinwang Liu, Lei Gong, Siwei Wang, Xin Niu, Li Shen, **TMM 2021**
-- [Fast parameter-free multi-view subspace clustering with consensus anchor guidance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:qjMakFHDy7sC), Siwei Wang, Xinwang Liu, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao, En Zhu, **TIP 2021**
-- [One-stage incomplete multi-view clustering via late fusion](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:4TOpqqG69KYC), Yi Zhang, Xinwang Liu, Siwei Wang, Jiyuan Liu, Sisi Dai, En Zhu, **ACM MM 2021**
-- [Multi-view clustering via deep matrix factorization and partition alignment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:KlAtU1dfN6UC), Chen Zhang, Siwei Wang, Jiyuan Liu, Sihang Zhou, Pei Zhang, Xinwang Liu, En Zhu, Changwang Zhang, **ACM MM 2021**
-- [Scalable multi-view subspace clustering with unified anchors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:WF5omc3nYNoC), Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, Wenxuan Tu, Xinwang Liu, En Zhu, Changjian Wang, **ACM MM 2021**
-- [Late fusion multiple kernel clustering with proxy graph refinement](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:2osOgNQ5qMEC), Siwei Wang, Xinwang Liu, Li Liu, Sihang Zhou, En Zhu, **TNNLS 2021**
-- [One pass late fusion multi-view clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:u-x6o8ySG0sC), Xinwang Liu, Li Liu, Qing Liao, Siwei Wang, Yi Zhang, Wenxuan Tu, Chang Tang, Jiyuan Liu, En Zhu, **ICML 2021**
-- [Projective multiple kernel subspace clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:Tyk-4Ss8FVUC), Mengjing Sun, Siwei Wang, Pei Zhang, Xinwang Liu, Xifeng Guo, Sihang Zhou, En Zhu, **TMM 2021**
-- [Hierarchical multiple kernel clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:hqOjcs7Dif8C), Jiyuan Liu, Xinwang Liu, Siwei Wang, Sihang Zhou, Yuexiang Yang, **AAAI 2021**
-- [Localized simple multiple kernel k-means](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:ufrVoPGSRksC), Xinwang Liu, Sihang Zhou, Li Liu, Chang Tang, Siwei Wang, Jiyuan Liu, Yi Zhang, **CVPR 2021**
-- [Multi-view spectral clustering with high-order optimal neighborhood laplacian matrix](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:UeHWp8X0CEIC), Weixuan Liang, Sihang Zhou, Jian Xiong, Xinwang Liu, Siwei Wang, En Zhu, Zhiping Cai, Xin Xu, **TKDE 2020**
-- [Optimal neighborhood multiple kernel clustering with adaptive local kernels](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:d1gkVwhDpl0C), Jiyuan Liu, Xinwang Liu, Jian Xiong, Qing Liao, Sihang Zhou, Siwei Wang, Yuexiang Yang, **TKDE 2020**
-- [Multi-view Clustering via Late Fusion Alignment Maximization.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:u5HHmVD_uO8C), Siwei Wang, Xinwang Liu, En Zhu, Chang Tang, Jiyuan Liu, Jingtao Hu, Jingyuan Xia, Jianping Yin, **IJCAI 2019** 
+## 2019
+- [Multi-view clustering via late fusion alignment maximization](https://www.ijcai.org/Proceedings/2019/0524.pdf), **Siwei Wang**, Xinwang Liu, En Zhu, Chang Tang, Jiyuan Liu, Jingtao Hu, Jingyuan Xia, Jianping Yin, **IJCAI 2019**
