@@ -25,7 +25,7 @@ redirect_from:
 
 ## Academic Papers
 - Published 112 academic papers, including 30 as first/corresponding author in CCF-A conferences (e.g., ICML, NeurIPS, ICLR, CVPR) and IEEE Transactions journals (e.g., TPAMI, TIP, TKDE)
-- 10 ESI Highly Cited Papers and 2 ESI Hot Papers; over 8,500 Google Scholar citations, with 29 papers cited more than 100 times each.
+- 10 ESI Highly Cited Papers and 2 ESI Hot Papers; over <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> Google Scholar citations.
 - Listed among Stanford University’s World’s Top 2% Scientists in 2024 and 2025.
 
 ## Personal Awards
