@@ -26,7 +26,7 @@ redirect_from:
 - Listed among Stanford University’s World’s Top 2% Scientists in 2024 and 2025.
 
 ## Personal Awards
-- Received 3 provincial-level and society-level science and technology awards, including the(025 CCF自然科学奖一等奖) and 2024 Hunan Province Second Class Award for Natural Sciences (湖南省自然科学奖二等奖)
+- Received 3 provincial-level and society-level science and technology awards, including the(2025 CCF自然科学奖一等奖) and 2024 Hunan Province Second Class Award for Natural Sciences (湖南省自然科学奖二等奖)
 - Awarded Outstanding Doctoral Dissertation by Hunan Province and relevant computer societies
 - Delivered invited keynote speeches on clustering at CCDM 2024 and CGCKD 2025
 
